@@ -1,0 +1,90 @@
+th{
+    border-style: none;
+    border-color: #312f2f;
+    width:80px;
+    padding-top: 50px;
+
+
+}
+
+.t1{
+    margin-left: 1050px;
+    margin-top: -100px;
+
+}
+
+.a{
+    background-color: #d51313;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.fa-search{
+    color: white;
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+.c{
+    border-style: solid;
+    width: 100px;
+    background-color: #d21313;
+    padding-bottom: 500px;
+}
+.t2{
+
+
+}
+
+.i{
+    margin-top: 5px;
+}
+.fa-shopping-cart{
+    color: white;
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+.fa-wifi{
+    color: white;
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+.Nintendo{
+    font-size: 10px;
+    color: white;
+    margin-left: 100px;
+}
+
+.iconify{
+    color: white;
+}
+
+.fa-shopping-bag{
+    font-size: 40px;
+    color: white;
+    margin-left: 25%;
+    margin-bottom: 20%;
+}
+
+.fa-gamepad{
+    font-size: 40px;
+    color: white;
+    margin-left: 25%;
+    margin-bottom: 20%;
+    margin-top: 20%;
+}
+.fa-square{
+    font-size: 40px;
+    color: white;
+    margin-left: 25%;
+    margin-bottom: 20%;
+}
+
+.fa-users{
+    font-size: 40px;
+    color: white;
+    margin-left: 25%;
+    margin-bottom: 20%;
+}
